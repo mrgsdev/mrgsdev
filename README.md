@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm MRGS 😎
 
+
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me:
+  * Telegram: [@mrgsdev](https://teleg.run/mrgsdev)
+  * E-mail: mrgsdev@gmail.com
+- 📁 Portfolio:  [click](https://github.com/mrgsdev/portfolio)
 <!--
 **mrgsdev/mrgsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
