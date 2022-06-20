@@ -1,18 +1,10 @@
 ### Hi there 👋 I'm MRGS 😎
-``` 
-👀 I’m interested in iOS development
-```
+  
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning Swift
+- 👀 I’m interested in iOS development
+- 📫 How to reach me:
 
-``` 
-🌱 I’m currently learning Swift
-```
-
-``` 
-👀 I’m interested in iOS development
-```
-```
-📫 How to reach me:
-``` 
   * Telegram: [@mrgsdev](https://teleg.run/mrgsdev)
   * E-mail: mrgsdev@gmail.com
  * 📁 Portfolio:  [click](https://github.com/mrgsdev/portfolio)
