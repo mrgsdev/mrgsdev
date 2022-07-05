@@ -1,24 +1,17 @@
-### Hi there 👋 I'm MRGS 😎
+### Hi there 👋 I'm MRGS 😎 ![](https://komarev.com/ghpvc/?username=mrgsdev&style=for-the-badge)
   
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift
 - 👀 I’m interested in iOS development
 - 📫 How to reach me:
 
-  * Telegram: [@mrgsdev](https://teleg.run/mrgsdev)
-  * E-mail: mrgsdev@gmail.com
- * 📁 Portfolio:  [click](https://github.com/mrgsdev/portfolio)
-<!--
-**mrgsdev/mrgsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram"/>][Telegram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+<!-- (https://github.com/antonkomarev/github-profile-views-counter) -->
+
+[Telegram]:https://teleg.run/mrgsdev
+[Gmail]: mrgsdev@gmail.com
