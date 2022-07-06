@@ -1,4 +1,4 @@
-### Hi there 👋 I'm MRGS 😎 ![](https://komarev.com/ghpvc/?username=mrgsdev&style=for-the-badge)
+### Hi there 👋 I'm MRGS 😎 
   
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift
@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram"/>][Telegram]
+![](https://komarev.com/ghpvc/?username=mrgsdev&style=for-the-badge)[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram"/>][Telegram]
 
 
  
