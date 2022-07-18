@@ -6,7 +6,9 @@
 - 📫 How to reach me:
 
 
-![](https://komarev.com/ghpvc/?username=mrgsdev&style=for-the-badge)[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail][<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=for-the-badge&logo=Telegram"/>][Telegram]
+![](https://komarev.com/ghpvc/?username=mrgsdev&style=flat)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />][Gmail]
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%231877F2.svg?&style=flat&logo=Telegram"/>][Telegram]
 
 
  
