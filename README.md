@@ -1,4 +1,4 @@
-### Hi there 👋 I'm MRGS 😎 
+### Hi there 👋
   
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift
