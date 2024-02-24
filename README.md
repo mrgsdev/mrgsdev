@@ -1,6 +1,8 @@
  ### Hi there 👋
- <img src="https://myreadme.vercel.app/api/embed/mrgsdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
- 
+<!--  <img src="https://myreadme.vercel.app/api/embed/mrgsdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />  -->
+ <img src="https://myreadme.vercel.app/api/embed/mrgsdev?panels=userstatistics,toplanguages" alt="reimaginedreadme" />
+
+
   [![Codewars Badge](https://www.codewars.com/users/mrgsdev/badges/large)](https://www.codewars.com/users/mrgsdev)
 <!-- - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift
