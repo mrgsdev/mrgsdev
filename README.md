@@ -1,11 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=300&color=05C077&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+page+%F0%9F%91%8B;My+name+is+mrgsdev;iOS+Developer+" alt="Typing SVG />
 </h1>
-    
- <img src="" alt="" />   
-
-<!-- Second widget -->
-  </a>   
+<img src="" alt="" /> 
 
 <!-- Second widget -->
 <a href="http://www.github.com/mrgsdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgsdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -23,14 +19,6 @@ Email & Telegram
  
 [Telegram]:https://teleg.run/mrgsdev
 [Gmail]: mrgsdev@gmail.com 
- 
-
-
-<!-- - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Swift
-- 👀 I’m interested in iOS development
-- 📫 How to reach me: 
- -->
 
 
 
