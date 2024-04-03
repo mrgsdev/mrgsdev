@@ -1,6 +1,11 @@
- ### Hi there 👋
-<!-- First widget -->
-<!--  <img src="https://myreadme.vercel.app/api/embed/mrgsdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />   -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=300&color=05C077&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+page+%F0%9F%91%8B;My+name+is+mrgsdev;iOS+Developer+" alt="Typing SVG />
+</h1>
+
+
+     
+<!--- First widget -->
+<!--  <img src="https://myreadme.vercel.app/api/embed/mrgsdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />   
 <!-- <img src="https://myreadme.vercel.app/api/embed/mrgsdev?panels=userstatistics,toplanguages" alt="reimaginedreadme" />  -->
 
 <!-- Second widget -->
@@ -10,6 +15,7 @@
 <a href="http://www.github.com/mrgsdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgsdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- Codewars widget -->
+     
 [![Codewars Badge](https://www.codewars.com/users/mrgsdev/badges/large)](https://www.codewars.com/users/mrgsdev)
 
 ![](https://komarev.com/ghpvc/?username=\&style=flat)
