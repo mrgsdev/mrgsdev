@@ -47,14 +47,20 @@
  <a href="https://git-fork.com/">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/1d74ce50-da6b-4b66-8d63-c8d5908d1641" alt="photoshop" width="70" height="70"/>
 </a> 
+</p>
+ <p align="center">
  <a href="https://www.sourcetreeapp.com/">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/890c6774-523c-4bb2-92bc-89538f48619a" alt="photoshop" width="70" height="70"/>
 </a> 
  <a href="https://www.firebase.com/">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/2b493f83-61a4-4ca3-b763-da5749c0c4a2" alt="photoshop" width="70" height="70"/>
 </a> 
-
-</p>
-<!-- <a href="https://www.adobe.com/products/photoshop.html">
+ <a href="https://www.adobe.com/products/photoshop.html">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/fcb48313-8e2e-45c3-80f9-cf68302fe347" alt="photoshop" width="70" height="70"/>
-</a>    -->
+</a>  
+
+ <a href="https://www.figma.com/">
+    <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/6aaed9b8-cba3-4066-b5cf-024b62831916" alt="photoshop" width="70" height="70"/>
+</a> 
+
+  
