@@ -66,14 +66,14 @@
 
  <h3 align="center">Hobbies</h3>
  <p align="center">
- <a href="https://developer.apple.com/xcode/">
+ <a href="https://www.image-line.com/fl-studio/">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/34f97a7b-7033-4c57-a29e-45c38f33f0b3" alt="fl" width="70" height="70"/>
 </a>
- <a href="https://www.swift.org/documentation/">
+ <a href="https://www.ableton.com/">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/c5d476ba-db6a-4ff4-b6cb-3c8e18b064e5" alt="ableton" width="70" height="70"/>
 </a> 
  
- <a href="https://git-fork.com/">
+ <a href="https://www.blackmagicdesign.com/products/davinciresolve">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/37bc87c0-1aa7-43ed-a195-f080e0c16398" alt="resolve" width="70" height="70"/>
 </a> 
 </p>
