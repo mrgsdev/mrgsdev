@@ -32,7 +32,7 @@
  
 <!-- (https://github.com/antonkomarev/github-profile-views-counter) -->
 
-<!-- Languages and Tools
+
  <h3 align="center">Languages and Tools:</h3>
  <p align="center">
  <a href="https://developer.apple.com/xcode/">
@@ -63,7 +63,7 @@
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/6aaed9b8-cba3-4066-b5cf-024b62831916" alt="figma" width="70" height="70"/>
 </a>
 
-
+<!-- Languages and Tools
  <h3 align="center">Hobbies</h3>
  <p align="center">
  <a href="https://www.image-line.com/fl-studio/">
