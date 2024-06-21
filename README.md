@@ -1,7 +1,4 @@
-<!-- Welcome to my page -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=300&color=05C077&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+page+%F0%9F%91%8B;My+name+is+mrgsdev;iOS+Developer+"/>
-</p>
+ 
  
 <!-- Stat commits -->
 <p align="center">
