@@ -72,5 +72,6 @@
  <a href="https://www.blackmagicdesign.com/products/davinciresolve">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/37bc87c0-1aa7-43ed-a195-f080e0c16398" alt="resolve" width="70" height="70"/>
 </a> 
+
 </p>
 
