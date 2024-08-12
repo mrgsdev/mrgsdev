@@ -58,7 +58,7 @@
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/6aaed9b8-cba3-4066-b5cf-024b62831916" alt="figma" width="70" height="70"/>
 </a>
 -->
-<!-- Hobbies 
+Hobbies 
  <h3 align="center">Hobbies</h3>
  <p align="center">
  <a href="https://www.image-line.com/fl-studio/">
@@ -72,5 +72,5 @@
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/37bc87c0-1aa7-43ed-a195-f080e0c16398" alt="resolve" width="70" height="70"/>
 </a> 
 </p>
--->
+
 
