@@ -67,11 +67,11 @@
  <a href="https://www.ableton.com/">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/c5d476ba-db6a-4ff4-b6cb-3c8e18b064e5" alt="ableton" width="70" height="70"/>
 </a> 
--->
+
  
  <a href="https://www.blackmagicdesign.com/products/davinciresolve">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/37bc87c0-1aa7-43ed-a195-f080e0c16398" alt="resolve" width="70" height="70"/>
 </a> 
 </p>
-
+-->
 
