@@ -9,7 +9,7 @@
 
 </h3>
 
-<!-- Social Media  
+<!-- Social Media   -->
 
 <h3 align="center">Email & Telegram</h3>
 
@@ -17,12 +17,12 @@
  <a href="mailto:mrgsdev@gmail.com">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/52f18f38-1a72-4c23-85e8-cda60d627ce7" width="60" height="60"/>
  </a>
- <a href="https://t.me/mrgsdev"> <!--  https://teleg.run/mrgsdev
+ <a href="https://t.me/mrgsdev"> 
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/1b13e8aa-ffaa-463b-bde3-274faa8b5f7f"  width="60" height="60"/>
  </a>
 </p>
 </center>  
- -->
+
 
  
 <!-- (https://github.com/antonkomarev/github-profile-views-counter) 
