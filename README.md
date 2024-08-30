@@ -25,7 +25,8 @@
 
 
  
-<!-- (https://github.com/antonkomarev/github-profile-views-counter) 
+<!-- (https://github.com/antonkomarev/github-profile-views-counter) -->
+
 
 
  <h3 align="center">Languages and Tools:</h3>
@@ -57,7 +58,6 @@
  <a href="https://www.figma.com/">
     <img src="https://github.com/mrgsdev/mrgsdev/assets/157994617/6aaed9b8-cba3-4066-b5cf-024b62831916" alt="figma" width="70" height="70"/>
 </a>
--->
 
 <!-- Hobbies -->
  <h3 align="center">Hobbies</h3>
