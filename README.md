@@ -8,7 +8,7 @@
 
 </h3>
 
-<!-- Snocial Media   -->
+<!-- Social Media   -->
 
 <h3 align="center">Email & Telegram</h3>
 
