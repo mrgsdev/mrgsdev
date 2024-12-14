@@ -7,6 +7,7 @@
 </h3>
 
 <!-- Social Media   -->
+<!-- 
 
 <h3 align="center">Email & Telegram</h3>
 
@@ -20,7 +21,7 @@
 </p>
 </center>  
 
-
+-->
  
 <!-- (https://github.com/antonkomarev/github-profile-views-counter) -->
 
